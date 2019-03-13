@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="shuchang@10.112.98.38:22">
+    <serverData>
+      <paths name="shuchang@10.112.98.38:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shuchang/Desktop/fyz" local="$PROJECT_DIR$/.." web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shuchang@10.112.98.38:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shuchang/Desktop/fyz" local="$PROJECT_DIR$/.." web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
